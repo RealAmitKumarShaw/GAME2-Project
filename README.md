@@ -1,2 +1,4 @@
 # GAME2-Project
-Stone, Paper, Seaser (Game) By using Python.
+Stone, Paper, Seaser (Game).<br>
+By using Python.<br>
+Auther - Amit KUmar Shaw.
